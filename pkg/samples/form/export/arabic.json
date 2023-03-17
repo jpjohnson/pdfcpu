@@ -1,9 +1,9 @@
 {
 	"header": {
 		"source": "arabic.pdf",
-		"version": "pdfcpu v0.4.0 dev",
+		"version": "pdfcpu v0.4.1 dev",
 		"creation": "2023-03-12 00:53:02 CET",
-		"producer": "pdfcpu v0.4.0 dev"
+		"producer": "pdfcpu v0.4.1 dev"
 	},
 	"forms": [
 		{
