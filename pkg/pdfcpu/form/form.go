@@ -20,13 +20,13 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/jpjohnson/pdfcpu/pkg/log"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/draw"
+	pdffont "github.com/jpjohnson/pdfcpu/pkg/pdfcpu/font"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/primitives"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/types"
 	"github.com/mattn/go-runewidth"
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/primitives"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

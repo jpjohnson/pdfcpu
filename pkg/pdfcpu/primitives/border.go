@@ -17,8 +17,8 @@
 package primitives
 
 import (
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/color"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

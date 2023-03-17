@@ -20,10 +20,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jpjohnson/pdfcpu/pkg/api"
+	"github.com/jpjohnson/pdfcpu/pkg/cli"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/types"
 )
 
 func testImportImages(t *testing.T, msg string, imgFiles []string, outFile, impConf string) {

@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/primitives"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/primitives"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

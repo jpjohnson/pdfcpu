@@ -19,7 +19,7 @@ package main
 import (
 	"flag"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
+	"github.com/jpjohnson/pdfcpu/pkg/log"
 )
 
 func initCommandMap() {

@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jpjohnson/pdfcpu/pkg/cli"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/types"
 )
 
 func TestResizeByScaleFactor(t *testing.T) {

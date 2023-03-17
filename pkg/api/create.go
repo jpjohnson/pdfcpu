@@ -21,11 +21,11 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/create"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jpjohnson/pdfcpu/pkg/log"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/create"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/types"
 )
 
 // CreatePDFFile creates a PDF file for an xRefTable and writes it to outFile.

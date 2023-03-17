@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jpjohnson/pdfcpu/pkg/api"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/model"
 )
 
 func confForAlgorithm(aes bool, keyLength int, upw, opw string) *model.Configuration {

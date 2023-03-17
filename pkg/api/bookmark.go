@@ -21,9 +21,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	pdf "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu"
+	pdf "github.com/jpjohnson/pdfcpu/pkg/pdfcpu"
+	"github.com/jpjohnson/pdfcpu/pkg/pdfcpu/model"
 	"github.com/pkg/errors"
 )
 
